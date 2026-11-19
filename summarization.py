@@ -1,6 +1,6 @@
 from openai import AzureOpenAI
 endpoint = "https://project25115-resource.services.ai.azure.com/"
-api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsV2tYmoDeSOAUNDj0Hjc8C6bqqJQQJ99CKACE1PydXJ3w3AAAAACOGsTKZ"
+api_key = "1KpC5N3S76nK55GTEJ3Oy0qPorsV2fordzbqqJQQJ99CKACE1PydXJ3w3AAAAACOGsTKZ"
 deployment_name = "gpt-5-mini"
 long_text = """Artificial Intelligence (AI) – A Detailed Explanation
 Artificial Intelligence (AI) is one of the most important and rapidly growing technologies in the modern world. It is a branch of Computer Science that focuses on developing machines and computer systems that can perform tasks that normally require human intelligence. These tasks include learning, problem-solving, decision-making, understanding languages, recognizing images, analyzing data, and generating new content.
