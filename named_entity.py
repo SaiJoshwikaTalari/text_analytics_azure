@@ -1,7 +1,7 @@
 # 4. Use AzureOpenAI client
 client = AzureOpenAI(
     azure_endpoint=endpoint,
-    api_key=api_key,
+    api_key="fgjkoirwqzxn,m,pdghjksaqlyrewv",
     api_version="2024-12-01-preview"  # Use a recent stable API version
 )
 
